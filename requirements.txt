@@ -1,1 +1,3 @@
 pandas
+pycaret
+spacy==2.3
